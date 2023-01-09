@@ -1,0 +1,23 @@
+img{
+	height: 300px;
+	border-radius: 50%;
+	padding: 20px;
+}
+ h1{
+ 	font-family: inherit;
+ 	text-align: center;
+ 	text-transform: uppercase;
+ 	letter-spacing: 12px;
+ }
+ body{
+ 	background-color:#0699D1 ;
+ 	text-align: center;
+ 	margin: 100px;
+ }
+ .image:hover{
+ 	opacity:1;
+ }
+ table{
+ 	margin-right:auto;
+ 	margin-left: auto;
+ }
